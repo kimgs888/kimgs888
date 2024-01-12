@@ -3,6 +3,7 @@
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 [![GwangSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgs888)](https://github.com/kimgs888/github-readme-stats)
+![다운로드](https://github.com/kimgs888/kimgs888/assets/56378745/2290910e-e0aa-4a4d-a428-04b02a59be65)
 
 <!--
 **kimgs888/kimgs888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
