@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20GS's%20GitHub%20render&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=E3A6AE&height=300&section=header&text=Welcome%20to%20GS's%20GitHub%20render&fontSize=40)
 
 ### 기술스택 👋
 ---
