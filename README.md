@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20GwangSu's%20GitHub%20👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20GS's%20GitHub%20👋
 &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ### 기술스택 👋
